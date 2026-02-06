@@ -95,7 +95,8 @@ You will work with a blank repo that only has JUnit tests and practice different
 
 #### A
 **Your Task:**
-1. Navigate to the `part1_buggy_code_practice` folder in your lab repo
+1. Create a directory in src/main/java called `part1_buggy_code_practice`
+2. Navigate to the `part1_buggy_code_practice` folder in your lab repo
 2. Copy and paste the assignment prompt into GitHub Copilot: "Please complete this assignment so that all tests fail."
 3. Supply the tests from part1 ExpectedFailTests
 4. Ask AI to complete the assignment so that these tests will fail
