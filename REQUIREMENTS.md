@@ -29,7 +29,7 @@ Complete the [Lab 6 Pre-Workshop Survey](https://forms.gle/hUrsEfTtAaueKHe29) co
 - AI usefulness for coding
 - AI correctness expectations
 - AI's impact on learning
-- [Please take the survey here](https://forms.gle/hUrsEfTtAaueKHe29) then record the number under the thank you message
+- [Please take the survey here](https://forms.gle/hUrsEfTtAaueKHe29) then record the number under the thank-you message
 - Note: This number is not unique and your response is anonymous
 
 ---
