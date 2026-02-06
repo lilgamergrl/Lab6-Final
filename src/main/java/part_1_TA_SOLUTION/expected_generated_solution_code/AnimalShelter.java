@@ -1,4 +1,4 @@
-package part_1_buggy_code.animal.expected_generated_solution_code;// animal.AnimalShelter.java
+package part_1_TA_SOLUTION.expected_generated_solution_code;// animal.AnimalShelter.java
 // This program manages an animal shelter with different types of animals
 // Expected behavior: Track animals, their status, and manage adoptions
 

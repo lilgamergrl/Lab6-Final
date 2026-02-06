@@ -1,4 +1,4 @@
-package part_1_buggy_code.animal.expected_generated_solution_code;
+package part_1_TA_SOLUTION.expected_generated_solution_code;
 
 public class Animal {
     private String name;
