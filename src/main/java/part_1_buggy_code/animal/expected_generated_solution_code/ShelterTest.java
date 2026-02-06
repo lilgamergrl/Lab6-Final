@@ -1,4 +1,4 @@
-package part_1_buggy_code.animal.solution_code;
+package part_1_buggy_code.animal.expected_generated_solution_code;
 
 import java.util.List;
 

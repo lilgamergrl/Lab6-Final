@@ -3,7 +3,7 @@ package part1_buggy_code;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.DisplayName;
-import part_1_buggy_code.animal.solution_code.*;
+import part_1_buggy_code.animal.expected_generated_solution_code.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 

@@ -27,7 +27,7 @@
 
 ---
 
-### Part 2B: Prompting to fix all Bugs with AI and create code based on supplied tests (Part 3.1.B)
+### Part 2B: Prompting to create code based on supplied tests (Part 3.1.B)
 **Prompt:**
 [Paste your actual prompt here]
 

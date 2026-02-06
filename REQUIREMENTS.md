@@ -117,7 +117,7 @@ You will work with a blank repo that only has JUnit tests and practice different
     - Impressions of the prompt strength
     - What did you learn about basic prompting?
 
-#### 3.1.B Prompting for Bugs with AI
+#### 3.1.B Prompting for Code based on passing tests with AI
 **Your Task:**
 1. Navigate to the `part1_buggy_code_practice` folder in your lab repo
 2. Review and list any bugs you initially see (5 minutes)
