@@ -2,7 +2,9 @@
 
 ## Question 1: Pre-Workshop Survey
 - [ ] I completed the pre-workshop survey
-- [Survey link] (https://forms.gle/hUrsEfTtAaueKHe29)
+- PROOF OF SURVEY COMPLETION NUMBER: 
+- [Survey link] (https://forms.gle/hUrsEfTtAaueKHe29) then record the number under the thank-you message
+- Note: This number is not unique and your response is anonymous
 ---
 
 ## Question 2: What AI Agent/LLM will you be using? (ie: Claude, Co-pilot, Cursor,etc)
@@ -227,7 +229,9 @@ Commit to these practices going forward:
 ## Question 6: Post-Workshop Survey
 
 - [ ] I completed the post-workshop survey
-- [Survey link] (https://forms.gle/9MpRjuLQ8fhB53eo6)
+- PROOF OF SURVEY COMPLETION NUMBER: 
+- [Survey link] (https://forms.gle/9MpRjuLQ8fhB53eo6) then record the number under the thank you message
+- Note: This number is not unique and your response is anonymous
 
 **Brief Reflection on Survey:**
 - Did your answers change from the pre-workshop survey? [yes/no]
