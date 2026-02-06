@@ -163,7 +163,7 @@ You will work with a blank repo that only has JUnit tests and practice different
 Now that you've worked with creating code with AI, you'll practice debugging code with AI assistance.
 
 ### Exercise Setup
-Unpack the part3_buggy_code.zip file. Navigate to the `part_3_buggy_code` folder in your lab repo.
+Navigate to the `part_3_buggy_code` folder in your lab repo.
 Choose 1 of the 2 files (Music or BankAccount) to unpack from a zip and debug
 This folder contains intentionally buggy code with corresponding JUnit tests.
 Use `bugs.md` to see if the AI accurately found all the bugs for you.
