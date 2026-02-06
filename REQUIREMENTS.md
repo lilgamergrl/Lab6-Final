@@ -13,7 +13,7 @@ By the end of this lab, you will be able to:
 - Download your lab repo from [paw2grader](https://pawtograder.com/)
 
 ## Lab Structure (75 minutes)
-1. Pre-workshop survey (10 minutes)
+1. Pre-workshop survey (10 xminutes)
 2. Understanding effective AI use (10 minutes)
 3. Effective prompting practice (20 minutes)
 4. Hands-on AI debugging exercise (20 minutes)
@@ -152,7 +152,7 @@ You will work with a blank repo that only has JUnit tests and practice different
 Now that you've worked with creating code with AI, you'll practice debugging code with AI assistance.
 
 ### Exercise Setup
-Navigate to the `part_2_buggy_code` folder in your lab repo. This folder contains intentionally buggy code with corresponding JUnit tests.
+Unpack the part2_buggy_code.zip file. Navigate to the `part_2_buggy_code` folder in your lab repo. This folder contains intentionally buggy code with corresponding JUnit tests.
 Use `bugs.md` to see if the AI accurately found all the bugs for you.
 
 ### Part 4.1: Bug Identification (7 minutes)
