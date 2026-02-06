@@ -134,7 +134,7 @@ You will work with a blank repo that only has JUnit tests and practice different
 3. Ask the AI to create an .md file called expectedFileBugs.md
 4. Check to see that the expected bugs match what you found
 5. Uncomment out CorrectTests.java
-6. Ask AI to create a new set of files in the folder `part2_debugging_buggy_code_practice` using your own prompt an passing it CorrectTests.java.
+6. Ask AI to create a new set of files in the folder `part2_debugging_buggy_code_practice` using your own prompt and pass it CorrectTests.java.
 7. Have it generate code to pass the set of tests in `CorrectTests.java`
 
 **Steps:**
@@ -163,7 +163,9 @@ You will work with a blank repo that only has JUnit tests and practice different
 Now that you've worked with creating code with AI, you'll practice debugging code with AI assistance.
 
 ### Exercise Setup
-Unpack the part2_buggy_code.zip file. Navigate to the `part_2_buggy_code` folder in your lab repo. This folder contains intentionally buggy code with corresponding JUnit tests.
+Unpack the part3_buggy_code.zip file. Navigate to the `part_3_buggy_code` folder in your lab repo.
+Choose 1 of the 2 files (Music or BankAccount) to unpack from a zip and debug
+This folder contains intentionally buggy code with corresponding JUnit tests.
 Use `bugs.md` to see if the AI accurately found all the bugs for you.
 
 ### Part 4.1: Bug Identification (10 minutes)
@@ -246,7 +248,7 @@ Reflect on how your expectations changed regarding:
 
 ### Key Lessons
 Answer these questions in REFLECTION.md (Question 4):
-
+[ Answer 2]
 1. What surprised you most about working with AI for coding?
 2. What's one specific way you'll change how you use AI for future assignments?
 3. What's one thing you'll always do before accepting AI-suggested code?
