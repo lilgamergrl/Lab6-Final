@@ -52,6 +52,9 @@ Complete the [Lab 6 Pre-Workshop Survey](https://forms.gle/hUrsEfTtAaueKHe29) co
 - Copying without understanding
 - Replacing debugging skills
 - Bypassing concept learning
+- Studies have found dependence of LLM tools has a cognitive cost that reduces brain connectivity.
+- When using LLMs it is important to use it as a tool and not depend on it. 
+- https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/
 
 ### Key Principles
 
@@ -66,6 +69,7 @@ Complete the [Lab 6 Pre-Workshop Survey](https://forms.gle/hUrsEfTtAaueKHe29) co
 - Is the abstraction level appropriate?
 - Can you document it effectively?
 - Do you understand this code even if it passed the required tests?
+- Is AI needed for this task?
 
 ### Determining Context and Abstraction Level
 
@@ -253,17 +257,17 @@ Answer these questions in REFLECTION.md (Question 4):
 ### Best Practices Checklist
 Commit to these practices going forward:
 
-- [ ] I will always attempt problems myself before asking AI
-- [ ] I will provide complete context in prompts
-- [ ] I will ask AI to explain WHY, not just provide fixes
-- [ ] I will verify every AI suggestion with tests
-- [ ] I will only use code I can fully explain
-- [ ] I will use AI as a tutor, not a solution generator
-- [ ] I will be skeptical of AI responses and double-check them
-- [ ] I will consider long-term maintainability
-- [ ] I will use appropriate abstraction levels
-- [ ] I will fix bugs incrementally when learning, not all at once
-
+- I will always attempt problems myself before asking AI
+- I will provide complete context in prompts
+- I will ask AI to explain WHY, not just provide fixes
+- I will verify every AI suggestion with tests
+- I will only use code I can fully explain
+- I will use AI as a tutor, not a solution generator
+- I will be skeptical of AI responses and double-check them
+- I will consider long-term maintainability
+- I will use appropriate abstraction levels
+- I will fix bugs incrementally when learning, not all at once
+- [ ] I commit to these practices.
 ---
 
 ## Submission Requirements
@@ -284,5 +288,4 @@ The goal is to learn how to:
 - Evaluate code critically
 - Write maintainable solutions
 - Use AI as a learning aid
-
 Success means understanding debugging better and knowing when AI helps versus hurts your learning—regardless of how many bugs you fixed.
