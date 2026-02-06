@@ -7,17 +7,19 @@ By the end of this lab, you will be able to:
 - Apply effective prompting strategies to maximize learning while using AI tools
 - Consider the long-term maintainability implications of AI-generated code
 
+## Reminder!!! There is an assignment review session on [DATE TIME PLACE]
+
 ## Pre-Lab Preparation
 - Install GitHub Copilot [see tutorial](adding_copilot_to_vscode.md)
 - Review your IDE setup for compiling and running Java programs (Java 21)
 - Download your lab repo from [paw2grader](https://pawtograder.com/)
 
 ## Lab Structure (75 minutes)
-1. Pre-workshop survey (10 xminutes)
+1. Pre-workshop survey (5-10 minutes)
 2. Understanding effective AI use (10 minutes)
 3. Effective prompting practice (20 minutes)
-4. Hands-on AI debugging exercise (20 minutes)
-5. Post-workshop survey (10 minutes)
+4. Hands-on AI debugging exercise (25 minutes)
+5. Post-workshop survey (5-10 minutes)
 6. Reflection and discussion (5 minutes)
 ---
 
@@ -74,13 +76,13 @@ Complete the [Lab 6 Pre-Workshop Survey](https://forms.gle/hUrsEfTtAaueKHe29) co
 - What you've already tried
 
 **What level of abstraction is appropriate?**
-- Too high-level: "Make a bank account system"
+- Too high-level: "Make a bank account system class"
 - Too low-level: "Fix line 23"
-- Just right: "Review my withdraw method's error handling approach"
+- Just right: "Review my bank account classes withdrawal method's error handling approach"
 
 ---
 
-## Part 3: Effective Prompting Practice,Code Generation, and Debugging with LLMS (30 minutes)
+## Part 3: Effective Prompting Practice and Code Generation
 
 ### The Anatomy of a Good Prompt
 - **Specific** - Clear context and constraints
@@ -151,7 +153,7 @@ You will work with a blank repo that only has JUnit tests and practice different
     - If given an hour to prepare could you explain this code?
 
     
-## Part 4: Hands-On AI Debugging Exercise (20 minutes)
+## Part 4: Hands-On AI Debugging Exercise (25 minutes)
 
 ### Overview
 Now that you've worked with creating code with AI, you'll practice debugging code with AI assistance.
@@ -160,10 +162,10 @@ Now that you've worked with creating code with AI, you'll practice debugging cod
 Unpack the part2_buggy_code.zip file. Navigate to the `part_2_buggy_code` folder in your lab repo. This folder contains intentionally buggy code with corresponding JUnit tests.
 Use `bugs.md` to see if the AI accurately found all the bugs for you.
 
-### Part 4.1: Bug Identification (7 minutes)
+### Part 4.1: Bug Identification (10 minutes)
 
 **Steps:**
-1. **Initial Analysis (2 minutes):**
+1. **Initial Analysis (5 minutes):**
     - Read through the buggy code yourself
     - What bugs do you see on your own?
     - Document your initial findings
@@ -183,11 +185,11 @@ Use `bugs.md` to see if the AI accurately found all the bugs for you.
     - Did you find bugs AI missed?
 
 
-### Part 4.2: Bug Fixing Strategies (13 minutes)
+### Part 4.2: Bug Fixing Strategies (15 minutes)
 
 **Your Task:** Test two different approaches to bug fixing with AI
 
-#### Strategy A: Fix All Bugs at Once (6 minutes)
+#### Strategy A: Fix All Bugs at Once (5 minutes)
 
 1. **Create Prompt:**
     - Ask AI to fix ALL bugs identified
@@ -203,7 +205,7 @@ Use `bugs.md` to see if the AI accurately found all the bugs for you.
     - Do you understand all the changes?
     - Can you explain each fix?
 
-#### Strategy B: Fix Bugs One at a Time (6 minutes)
+#### Strategy B: Fix Bugs One at a Time (10 minutes)
 
 1. **Create Prompts:**
     - Ask AI to fix ONE bug at a time
@@ -219,7 +221,7 @@ Use `bugs.md` to see if the AI accurately found all the bugs for you.
     - Which helped you understand better?
     - Which gave you more control?
 
-#### Final Documentation (1 minute)
+#### Final Documentation
 
 ## Part 5: Post-Workshop Survey (10 minutes)
 
@@ -270,11 +272,6 @@ Submit your completed `REFLECTION.md` file containing all answers to Questions 1
 
 **Filename:** `REFLECTION.md` (in your lab repo)
 **Submission:** Push to your repository by the end of the lab session
-
----
-
-
-
 
 ---
 
