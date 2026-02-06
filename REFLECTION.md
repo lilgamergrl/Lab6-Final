@@ -5,9 +5,12 @@
 - [Survey link] (https://forms.gle/hUrsEfTtAaueKHe29)
 ---
 
-## Question 2: Effective Prompting Practice
+## Question 2: What AI Agent/LLM will you be using? (ie: Claude, Co-pilot, Cursor,etc)
+[Answer]
 
-### Part 2a: Basic Code Generation (Part 3.1.A)
+## Question 3: Effective Prompting Practice
+
+### Part 3A: Basic Code Generation (Part 3.1.A)
 
 **Purpose:** Generate initial implementation from assignment requirements
 
@@ -27,7 +30,7 @@
 
 ---
 
-### Part 2B: Prompting to create code based on supplied tests (Part 3.1.B)
+### Part 3B: Prompting to create code based on supplied tests (Part 3.1.B)
 **Prompt:**
 [Paste your actual prompt here]
 
@@ -53,9 +56,9 @@
 ---
 
 
-## Question 3: Hands-On AI Debugging Exercise
+## Question 4: Hands-On AI Debugging Exercise
 
-### Part 4a: Bug Identification
+### Part 4A: Bug Identification
 
 **Your Initial Bug Analysis:**
 [List bugs you found before using AI]
@@ -84,7 +87,7 @@
 -
 ---
 
-### Part 3b: Bug Fixing Strategies
+### Part 4B: Bug Fixing Strategies
 
 #### Strategy A: Fix All Bugs at Once
 
@@ -138,7 +141,7 @@
 
 ---
 
-### Part 3c: Strategy Comparison
+### Part 4C: Strategy Comparison
 
 **Which strategy was more effective? Why?**
 [Your analysis]
@@ -165,7 +168,7 @@
 
 ---
 
-## Question 4: Reflection and Takeaways
+## Question 5: Reflection and Takeaways
 
 ### Key Lessons
 
@@ -207,7 +210,7 @@ Commit to these practices going forward:
 
 ---
 
-## Question 5: Post-Workshop Survey
+## Question 6: Post-Workshop Survey
 
 - [ ] I completed the post-workshop survey
 - [Survey link] (https://forms.gle/9MpRjuLQ8fhB53eo6)
