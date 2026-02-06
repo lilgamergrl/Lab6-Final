@@ -97,9 +97,12 @@ You will work with a blank repo that only has JUnit tests and practice different
 **Your Task:**
 1. Create a directory in src/main/java called `part1_buggy_code_practice`
 2. Navigate to the `part1_buggy_code_practice` folder in your lab repo
-2. Copy and paste the assignment prompt into GitHub Copilot: "Please complete this assignment so that all tests fail."
-3. Supply the tests from part1 ExpectedFailTests
-4. Ask AI to complete the assignment so that these tests will fail
+3. Copy and paste the assignment prompt into GitHub Copilot: "Please complete this assignment so that all tests fail in ExpectedFail Tests"
+4. Supply the tests from part1 ExpectedFailTests
+5. Ask AI to complete the assignment so that these tests will fail
+6. Did it work?
+7. What additional prompts did you require to complete this task? Please list them.
+8. 
 
 **Steps:**
 1. **Generate Code:**
@@ -120,12 +123,13 @@ You will work with a blank repo that only has JUnit tests and practice different
 
 #### 3.1.B Prompting for Code based on passing tests with AI
 **Your Task:**
-1. Navigate to the `part1_buggy_code_practice` folder in your lab repo
+1. Create and navigate to the `part2_debugging_buggy_code_practice` folder in your lab repo
 2. Review and list any bugs you initially see (5 minutes)
 3. Ask the AI to create an .md file called expectedFileBugs.md
 4. Check to see that the expected bugs match what you found
-5. Ask AI to create a new set of files in the folder `part1_buggy_code_practice`
-6. Have it generate code to pass the set of tests in `CorrectTests.java`
+5. Uncomment out CorrectTests.java
+6. Ask AI to create a new set of files in the folder `part2_debugging_buggy_code_practice` using your own prompt an passing it CorrectTests.java.
+7. Have it generate code to pass the set of tests in `CorrectTests.java`
 
 **Steps:**
 1. **Generate Code:**

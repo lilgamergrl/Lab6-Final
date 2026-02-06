@@ -3,7 +3,6 @@ package part1_buggy_code;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.DisplayName;
-import part_1_TA_SOLUTION.expected_generated_solution_code.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 

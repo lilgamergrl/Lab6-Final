@@ -14,6 +14,7 @@
 
 **Purpose:** Generate initial implementation from assignment requirements
 
+Initial Prompt: "Please complete this assignment so that all tests fail in ExpectedFail Tests"
 **Prompt:**
 [Paste your actual prompt here]
 
@@ -27,6 +28,19 @@
 
 **Analysis:**
 [Evaluate prompt effectiveness and what you'd change]
+
+What additional prompts did you require to complete this task? Please list them.
+**Additional Prompt(s):**
+[Paste your actual prompt here]
+
+**Output:**
+[Summarize what code was generated]
+
+**Test Results:**
+- Tests passed: X/Y
+- What's working:
+- What's broken:
+
 
 ---
 
