@@ -7,7 +7,7 @@ By the end of this lab, you will be able to:
 - Apply effective prompting strategies to maximize learning while using AI tools
 - Consider the long-term maintainability implications of AI-generated code
 
-## Reminder!!! There is an assignment review session on [DATE TIME PLACE]
+## Reminder!!! There is assignment 2 review material on discussion board and an assignment 3 review session on Tuesday Feb. 17th 5-8 PM Ryder 269
 
 ## Pre-Lab Preparation
 - Install GitHub Copilot [see tutorial](adding_copilot_to_vscode.md)
@@ -90,10 +90,17 @@ Complete the [Lab 6 Pre-Workshop Survey](https://forms.gle/hUrsEfTtAaueKHe29) co
 ## Part 3: Effective Prompting Practice and Code Generation
 
 ### The Anatomy of a Good Prompt
-- **Specific** - Clear context and constraints
-- **Complete** - All relevant code and error messages
+- **Specific** - Clear context, instructions, and constraints
+- **Complete** - Includes all relevant code and error messages
 - **Educational** - Asks for explanations, not just solutions
 - **Maintainable** - Considers long-term code quality
+
+### Prompt Engineering: Tracking your Prompts 
+For successful prompt engineering keep track of these details for each prompt. It can help to write them out in a mark down file. 
+- **Purpose** - What is the goal?
+- **Input** - Write out your prompt for the AI?
+- **Output** - How did the AI respond?
+- **Analysis** - What do you need to change about the input/output for success? 
 
 ### Exercise Overview
 You will work with a blank repo that only has JUnit tests and practice different prompting strategies.
